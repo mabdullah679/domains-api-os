@@ -7,4 +7,4 @@ mvn spring-boot:run
 npx @modelcontextprotocol/inspector
 
 3) wait for UI to open 
-4) Click "List Tools" to check for "DomainTools" to appear
+4) Click "List Tools" to check for "domains-latest-videos" to appear
